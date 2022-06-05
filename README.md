@@ -1,3 +1,3 @@
 # Network_Science
 
-Final Project of the MSc Network Science course. We analyze the twitter network about #RedFlag.
+Final Project of the MSc Network Science course. We analyzed the twitter network about #RedFlag.
